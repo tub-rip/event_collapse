@@ -11,8 +11,8 @@ This repository collects our work on the topic of overfitting in event alignment
 If you use this work in your research, please cite it as follows:
 
 ```bibtex
-author = {Shintaro Shiba and Yoshimitsu Aoki and Guillermo Gallego},  
 @article{Shiba22aisy,
+  author = {Shintaro Shiba and Yoshimitsu Aoki and Guillermo Gallego},  
   title = {A Fast Geometric Regularizer to Mitigate Event Collapse 
   		   in the Contrast Maximization Framework},
   journal = {Advanced Intelligent Systems},
