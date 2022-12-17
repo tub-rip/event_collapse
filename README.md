@@ -2,7 +2,7 @@
 
 [![A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework](docs/evcollapse_thumb_icon.jpg)](https://youtu.be/IwqA57yaBTo)
 
-This repository collects our work on the topic of event collapse (overfitting) in event alignment frameworks, such as CMax.
+This repository collects our work on the topic of overfitting in event alignment frameworks, such as CMax.
 
 * [**A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework**](https://arxiv.org/pdf/2212.07350), published at Advanced Intelligent Systems, 2022.
 
@@ -13,7 +13,8 @@ If you use this work in your research, please cite it as follows:
 ```bibtex
 author = {Shintaro Shiba and Yoshimitsu Aoki and Guillermo Gallego},  
 @article{Shiba22aisy,
-  title = {A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework},
+  title = {A Fast Geometric Regularizer to Mitigate Event Collapse 
+  		   in the Contrast Maximization Framework},
   journal = {Advanced Intelligent Systems},
   year = {2022},
   month = {December},
@@ -31,10 +32,11 @@ author = {Shintaro Shiba and Yoshimitsu Aoki and Guillermo Gallego},
 ```
 
 ### Authors
-* [Shintaro Shiba](http://shibashintaro.com/)(Keio Univ., TU Berlin)
-* [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu-en/)(Keio Univ.)
-* [Guillermo Gallego](https://sites.google.com/view/guillermogallego)(TU Berlin, ECDF, SCIoI)
+* [Shintaro Shiba](http://shibashintaro.com/) (Keio Univ., TU Berlin)
+* [Yoshimitsu Aoki](https://aoki-medialab.jp/aokiyoshimitsu-en/) (Keio Univ.)
+* [Guillermo Gallego](https://sites.google.com/view/guillermogallego) (TU Berlin, ECDF, SCIoI)
 
+ 
 ### Additional Resources on Event-based Vision
 -------
 * [Secrets of Event-Based Optical Flow (ECCV 2022)](https://github.com/tub-rip/event_based_optical_flow)
