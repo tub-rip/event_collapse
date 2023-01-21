@@ -4,9 +4,9 @@
 
 This repository collects our work on the topic of overfitting in event alignment frameworks, such as CMax.
 
-* [**A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework**](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200251) ([arxiv](https://arxiv.org/pdf/2212.07350)), published at Advanced Intelligent Systems, 2022.
+* [**A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework**](https://arxiv.org/pdf/2212.07350), published at [Advanced Intelligent Systems](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200251), 2022.
 
-* [**Event Collapse in Contrast Maximization Frameworks**](https://www.mdpi.com/1424-8220/22/14/5190) ([arxiv](https://arxiv.org/pdf/2207.04007)), published at Sensors, 2022.
+* [**Event Collapse in Contrast Maximization Frameworks**](https://arxiv.org/pdf/2207.04007), published at [Sensors](https://www.mdpi.com/1424-8220/22/14/5190), 2022.
 
 If you use this work in your research, please cite it as follows:
 
